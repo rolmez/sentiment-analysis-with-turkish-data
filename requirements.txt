@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+beautifulsoup4
+seaborn
+matplotlib
+regex
+scikit-learn
+snowballstemmer
+collections
